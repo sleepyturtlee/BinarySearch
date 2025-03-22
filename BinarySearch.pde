@@ -41,7 +41,7 @@ public int recursiveBinarySearch(int catNumToFind, int nLow, int nHigh)
   //complete this method    
   return -1;
 }
-public void setup()
+public void tester()
 {
   int[] tests = {0, 183, 184, 2370, 15320, 19967, 19968};
   System.out.println();
